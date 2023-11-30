@@ -2,7 +2,7 @@
 Hardware Accelerator with HLS Project (Hardware-Software codesign)
 
 ## 📋 Description
-Matrix multiplication acceleration using a Xiling FPGA SoC platform with an ARM dual core with performance comparison between PC, ARM and FPGA.
+Matrix multiplication acceleration using a Xiling FPGA SoC platform with an ARM dual core with performance comparison between PC, ARM and FPGA. This part implements the ARM single core and dual core.
 
 ## 🛠️ Software used
 

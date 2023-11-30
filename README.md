@@ -13,12 +13,12 @@ This project was implemented in [Xilinx Vivado](https://www.xilinx.com/products/
 - Arthur COELHO RUBACK:
     - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/arthur-ruback)
 
+- Chunyu ZHANG
+
 - Matheus SANTOS SANO:
     - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/matsano)
 
 - Xinyuan GUAN:
     - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Pandenotium)
-
-- Chunyu ZHANG
 
 I would like to thank our professors Mr. Omar Hammami and Mr.  Hervé Le Provost for the knowledge taught in ROB306 Course at [ENSTA Paris](https://www.ensta-paris.fr/).

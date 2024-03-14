@@ -21,4 +21,4 @@ This project was implemented in [Xilinx Vivado](https://www.xilinx.com/products/
 - Xinyuan GUAN:
     - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Pandenotium)
 
-I would like to thank our professors Mr. Omar Hammami and Mr. Hervé Le Provost for the knowledge taught in ROB306 Course at [ENSTA Paris](https://www.ensta-paris.fr/).
+I would like to thank our professors Mr. Omar Hammami and Mr. Hervé Le Provost for the knowledge taught in course at [ENSTA Paris](https://www.ensta-paris.fr/).
